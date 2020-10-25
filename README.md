@@ -2,6 +2,7 @@
 
 Cool-esque software engineer.
 
+[StackOverflow](https://stackoverflow.com/users/12130316/kimanihuon) •
 ![Profile views](https://gpvc.arturio.dev/kimanihuon)
 
 <center>
