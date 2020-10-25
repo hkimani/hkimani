@@ -2,6 +2,8 @@
 
 Cool-esque software engineer.
 
+![Profile views](https://gpvc.arturio.dev/kimanihuon)
+
 <center>
   <table>
   <tr>
