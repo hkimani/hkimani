@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm Kimani
 
-Software engineer.
+- 🔭 I’m currently working on cloud computing
+- 🌱 I’m currently learning docker, react, node
+- 👯 I’m looking to collaborate on something fun
+- [@hkimani](https://www.linkedin.com/in/hubert-kimani-49727a125/)
 
 [StackOverflow](https://stackoverflow.com/users/12130316/kimanihuon) •
 ![Profile views](https://gpvc.arturio.dev/hkimani)
@@ -10,6 +13,12 @@ Software engineer.
 <p align ="center">
   <a href ="https://www.linkedin.com/in/hubert-kimani-49727a125/" role="LinkedIn">
   <img src="https://img.shields.io/badge/-LinkedIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+  </a>
+  <a href ="https://stackoverflow.com/users/12130316/kimanihuon" role="stackoverflow">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+  </a>
+   <a href ="https://www.hackerrank.com/kimanihube" role="hackerrank">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
 </p>
 
