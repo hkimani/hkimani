@@ -5,10 +5,9 @@
 - 👯 I’m looking to collaborate on something fun
 - [@hkimani](https://www.linkedin.com/in/hubert-kimani-49727a125/)
 
-[StackOverflow](https://stackoverflow.com/users/12130316/kimanihuon) •
 ![Profile views](https://gpvc.arturio.dev/hkimani)
 
-# 🤝 Social
+# Find me 🌐
 
 <p align ="center">
   <a href ="https://www.linkedin.com/in/hubert-kimani-49727a125/" role="LinkedIn">
@@ -22,7 +21,42 @@
   </a>
 </p>
 
-# 📉 Stats
+### Stack 🖧
+<p align ="center">
+  <a href ="#" role="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </a>
+  <a href ="#" role="TypeScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </a>
+  <a href ="#" role="Python">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
+  <a href ="#" role="Postgres">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>
+  <a href ="#" role="NodeJs">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  </a>
+  <a href ="#" role="ExpressJs">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  </a>
+  <a href ="#" role="ReactJs">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  </a>
+  <a href ="#" role="VueJs">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+  </a>
+  <a href ="#" role="Docker">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>
+  <a href ="#" role="GCP">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  </a>
+</p>
+<br />
+
+# Stats 📈
 
 [![hkimani's github streak](https://github-readme-streak-stats.herokuapp.com/?user=hkimani&theme=blue-green)](https://github.com/hkimani/github-readme-streak-stats)
 
