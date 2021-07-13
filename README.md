@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on cloud computing
 - 🌱 I’m currently learning docker, react, node
 - 👯 I’m looking to collaborate on something fun
-- [@hkimani](https://www.linkedin.com/in/hubert-kimani-49727a125/)
 
 ![Profile views](https://gpvc.arturio.dev/hkimani)
 
