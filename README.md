@@ -55,22 +55,6 @@
 </p>
 <br />
 
-# Stats 📈
-
-[![hkimani's github streak](https://github-readme-streak-stats.herokuapp.com/?user=hkimani&theme=blue-green)](https://github.com/hkimani/github-readme-streak-stats)
-
-<center>
-  <table>
-  <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=hkimani&show_icons=true&include_all_commits=true&count_private=true&icon_color=de5085&theme=radical" alt="Kimani's github stats" /></td>
-      <td><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hkimani&layout=compact&langs_count=8&hide=Mako&theme=nightowl&count_private=true&border_radius=15&border_color=#212121">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkimani&layout=compact&langs_count=8&hide=html&theme=nightowl&border_radius=15&border_color=#212121" />
-</a>
-</td>
-  </tr>   
-</table>
-</center>
-
 <!--
 **hkimani/hkimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
